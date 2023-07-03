@@ -12,9 +12,8 @@ Once the project goal is defined, the subsequent steps such as finding relevant 
 Therefore, defining the goal of the project is the critical first step in any analytic project.
 
 
-Intrusion detection system using Machine Learning project summary
 
-Project Summary: Intrusion Detection System using Machine Learning
+Intrusion Detection System using Machine Learning
 
 The objective of this project is to develop an intrusion detection system (IDS) using machine learning techniques. The IDS will be designed to analyze network traffic data and identify any malicious activities or potential security breaches in real-time.
 
